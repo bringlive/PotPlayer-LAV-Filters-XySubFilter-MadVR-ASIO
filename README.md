@@ -1,5 +1,6 @@
 # The advance media playback stack ultimate to watch video on your PC
 
+### Original post from [TennojiM](https://www.tennojim.xyz/article/media_stack_diy)
 
 In this build I'm trying to avoid all unnecessary data processing hops to increase processing speed and reduce letencies and it will help to bring media content on your screen as closer to the original as it's possible with less compressings, transformations, corrections... etc. Basic idea here if you do not know for what it is better turn it off. Also this guide will help you to dive into ocean of high quality video playback with all this acronyms and preferences which we are usually prefer to do not touch and to use VLC Player instead... lol.
 This is just one of the examples and it doesn't claim to be perfect or only one right. This is just a base for you. Most of this options are very subjective because everybody have their personal preferences, but anyway some point's are very preferable to be turned on or turned off, so let's go through my setup and I will try to explain as much as I can and as much as I know by myself. But I need to warn you that like for most such setups something can go wrong on different OS or hardware so you and only you responsible for your actions.
